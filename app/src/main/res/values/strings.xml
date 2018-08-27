@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CardVirtual</string>
+    <string name="empresa_Detalhes">Sobre a Empresa</string>
+    <string name="Teste">teste</string>
+    <string name="Servicos_menu">Serviços Oferecidos</string>
+    <string name="serivicos_1">Desenvolvimento Web Completo</string>
+    <string name="Servicos_2">Desenvolvimento Mobile Multiplataforma</string>
+    <string name="servicos_3">Divulgação em Midia Social </string>
+    <string name="servicos_4">Arte de Divulgação garantida </string>
+    <string name="Contato_view">Contato</string>
+    <string name="Email">Email:</string>
+    <string name="pessoal_email">joaopedromedinadeandrade@gmail.com</string>
+    <string name="Telefone">Telefone:</string>
+    <string name="Pessoal_contato">(32) 93300-0385</string>
+</resources>
